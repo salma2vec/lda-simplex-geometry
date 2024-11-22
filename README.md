@@ -1,5 +1,5 @@
 # lda & simplex geometry  
-enabling a deep understanding and efficient implementation of lda with a focus on the geometric intuition of high-dim simplexes.
+deeper understanding and efficient implementation of lda with a focus on the geometric intuition of high-dim simplexes.
 
 ## highlights
 1. **probabilistic modeling**:
