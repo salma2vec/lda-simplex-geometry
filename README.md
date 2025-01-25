@@ -1,4 +1,4 @@
-# LDA & Simplex Geometry
+# Latent Dirichlet Allocation & Simplex Geometry: 
    
 ## LDA generative process
 
